@@ -1,0 +1,8 @@
+body{
+    color: red;
+    border: dotted;
+    border-color: aqua;
+    font-size: 30pt;
+    background: url("https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/1185656_10100710925162266_433219929_n.jpg?_nc_cat=0&oh=76979f3462a62e95e8ec73d168f7d2f4&oe=5BE1E19A");
+    /* background: url("http://test.eng.hawaii.edu/~pts/Images/Fall04/04pledges.jpg") */
+}
